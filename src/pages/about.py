@@ -131,7 +131,7 @@ def render_about() -> None:
         |------|-----|
         | 🌐 **GitHub** | [github.com/GouravGC](https://github.com/GouravGC) |
         | 💼 **LinkedIn** | [linkedin.com/in/gourav-chhatwani-9a301134a](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/) |
-        | 🚀 **Live App Demo** | *(placeholder — add your deployed Streamlit URL here)* |
+        | 🚀 **Live App Demo** | [animal-10-classification-pytorch.streamlit.app](https://animal-10-classification-pytorch.streamlit.app/) |
         | 📊 **Kaggle Dataset** | [Animals-10](https://www.kaggle.com/datasets/alessiocorrado99/animals10) |
 
         **Model:** Custom AlexNet (2.50M params), Test Acc ~73.93%
