@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+pyvenv.cfg
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+logs/
+*.log
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+tox.ini
+.mypy_cache/
+.ruff_cache/
+
+# Model artifacts (models are large and already committed as data)
+# NOTE: The artifacts/ folder is intentionally NOT ignored because it contains
+# the pre-trained model weights required for inference. Keep it tracked.
+# artifacts/
+
+# Inference sample uploads (keep the folder, ignore contents)
+inference/sample_images/*
+!inference/sample_images/.gitkeep
+
+artifacts_zip/
+artifacts/checkpoints/
+
+TODO.md

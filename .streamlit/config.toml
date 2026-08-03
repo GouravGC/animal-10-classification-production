@@ -1,0 +1,32 @@
+# ----------------------------------------------------------------------------
+# Streamlit theme configuration (professional dark theme).
+#
+# The colors below ensure that EVERY Streamlit widget (selectbox, radio,
+# slider, metrics, dataframes, captions, etc.) uses light text on a dark
+# background. This removes the need for brittle CSS overrides and makes all
+# text clearly visible.
+# ----------------------------------------------------------------------------
+
+[theme]
+base = "dark"
+
+# Brand / accent colors
+primaryColor = "#4F46E5"
+
+# Backgrounds
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+
+# Text
+textColor = "#F8FAFC"
+
+# Font
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false
+

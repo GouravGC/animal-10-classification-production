@@ -1,0 +1,27 @@
+{
+    "IMAGE_SIZE": 224,
+    "BATCH_SIZE": 32,
+    "NUM_CLASSES": 10,
+    "CLASS_NAMES": [
+        "cane",
+        "cavallo",
+        "elefante",
+        "farfalla",
+        "gallina",
+        "gatto",
+        "mucca",
+        "pecora",
+        "ragno",
+        "scoiattolo"
+    ],
+    "MEAN": [
+        0.485,
+        0.456,
+        0.406
+    ],
+    "STD": [
+        0.229,
+        0.224,
+        0.225
+    ]
+}
