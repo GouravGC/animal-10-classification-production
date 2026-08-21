@@ -372,7 +372,7 @@ This project is for educational and portfolio purposes. The dataset is the **Ani
 
 ## 👤 Author
 
-- **Gourav Chhatwani** — Deep Learning Engineer
+- **Gourav Chhatwani** — Aspiring Deep Learning Engineer
 - **GitHub:** [github.com/GouravGC](https://github.com/GouravGC)
 - **LinkedIn:** [linkedin.com/in/gourav-chhatwani-9a301134a](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/)
-- **Live App Demo:** [animal-10-classification-pytorch.streamlit.app](https://animal-10-classification-pytorch.streamlit.app/)
+- **Live App Demo:** [animal-10-classification-pytorch.streamlit.app](https://animal-10-classification-pytorch.streamlit.app/) (Live Demo Note: The Streamlit Community Cloud app may be asleep due to inactivity. If prompted, click “Yes, get this app back up!” and wait a few seconds for the app to load.)
